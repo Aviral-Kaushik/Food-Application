@@ -3,7 +3,7 @@ This is a food application template.
 
 This a UI templeate of Food Application.
 
-In this application, i have used XML for UI development and Java for adapting the views.
+In this application, I have used XML for UI development and Java for adapting the views.
 
 This application has been developed from UI prespective only.
 
